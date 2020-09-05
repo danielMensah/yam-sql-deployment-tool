@@ -23,3 +23,6 @@ Baselining is useful for the tool to:
 To get started with YAM, firstly update the yam.properties.
 
 Then run the Main.kt file.
+
+### Supported JDBCs:
+1. PostgreSQL
