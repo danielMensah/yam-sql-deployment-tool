@@ -9,9 +9,9 @@ YAM initially baselines a new database.
 | installation\_rank | version | description | script | success | installed\_by | installed\_on |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 1.0.0 | yam baseline | baseline script | true | yam | 2020-09-05 09:57:10.947748 |
-| 2 | 1.0.1 | Hotfix | animal.sql | true | ytgpabwaislipg | 2020-09-05 09:59:14.521461 |
-| 3 | 1.0.1 | Hotfix | get\_test\_users.sql | true | ytgpabwaislipg | 2020-09-05 09:59:14.553077 |
-| 4 | 1.0.1 | Hotfix | person.sql | true | ytgpabwaislipg | 2020-09-05 09:59:14.586926 |
+| 2 | 1.0.1 | Hotfix | animal.sql | true | db_user | 2020-09-05 09:59:14.521461 |
+| 3 | 1.0.1 | Hotfix | get\_test\_users.sql | true | db_user | 2020-09-05 09:59:14.553077 |
+| 4 | 1.0.1 | Hotfix | person.sql | true | db_user | 2020-09-05 09:59:14.586926 |
 
 Baselining is useful for the tool to:
 1. Know the current version.
